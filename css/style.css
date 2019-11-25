@@ -1,22 +1,12 @@
 body {
 	margin: 0;
     background-color: #131313;
-    font-family: 'Nunito';
-    font-family: 'Nunito Sans';
-    font-family: 'Yeseva One';
-
-    
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-
-
+    font-family: Nunito Sans;
+ /* font-family: Yeseva One; */
     font-style: normal;
     font-weight: normal;
     font-size: 11px;
     line-height: 15px;
-
 }
 
 *,
